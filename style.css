@@ -1,0 +1,10 @@
+body {
+    font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+.top-banner {
+    background-image: url(images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
