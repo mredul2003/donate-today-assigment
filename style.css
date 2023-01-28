@@ -39,7 +39,30 @@ body {
 .top-banner {
     background-image: url(images/banner.jpg);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center top;
     background-size: 100%;
     height: 130vh;
+}
+
+.donation h1 {
+    font-family: 'Montserrat Subrayada';
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+    color: black;
+
+}
+
+.donation h4 {
+    font-family: 'Montserrat Subrayada';
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: gray;
+
+}
+
+.flex {
+    display: flex;
+    text-align: center;
 }
